@@ -1,0 +1,5 @@
+# crawl output, knowledge base, vectors (large; ID-redacted text but keep private)
+rag-data/
+__pycache__/
+*.pyc
+.venv/
